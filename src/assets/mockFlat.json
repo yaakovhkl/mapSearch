@@ -1,0 +1,36 @@
+[
+    {
+        "type": "zone",
+        "id": "asdefqwe",
+        "name": "Zone 1"
+    },
+    {
+        "type": "sesore",
+        "subType": "camera",
+        "id": "weartd45",
+        "parentId": "asdefqwe",
+        "name": "Security Camera",
+        "status": null
+    },
+    {
+        "type": "sesore",
+        "subType": "camera",
+        "id": "cvbnm65",
+        "parentId": "asdefqwe",
+        "name": "Traffic camera",
+        "status": "connected"
+    },
+    {
+        "type": "site",
+        "id": "dfgh56h",
+        "name": "Site 1"
+    },
+    {
+        "type": "sesore",
+        "subType": "moovingSensor",
+        "id": "weagfhj45",
+        "parentId": "dfgh56h",
+        "name": "Sensor 3",
+        "status": "disconnected"
+    }
+]
